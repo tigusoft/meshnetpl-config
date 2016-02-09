@@ -1,3 +1,12 @@
 Tested on:
 Routerboard 922UAGS-5HPacD
 
+
+Based on source code:
+
+git log -1
+commit f82063785d0a31333c452ac5d3faa7637694346e
+Author: John Crispin <blogic@openwrt.org>
+
+
+
