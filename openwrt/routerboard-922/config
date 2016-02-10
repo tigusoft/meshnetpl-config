@@ -2723,10 +2723,6 @@ CONFIG_POSTFIX_CDB=y
 # Captive Portals
 #
 # CONFIG_PACKAGE_coova-chilli is not set
-# CONFIG_COOVACHILLI_NOSSL is not set
-# CONFIG_COOVACHILLI_MATRIXSSL is not set
-# CONFIG_COOVACHILLI_CYASSL is not set
-# CONFIG_COOVACHILLI_OPENSSL is not set
 # CONFIG_PACKAGE_nodogsplash is not set
 # CONFIG_PACKAGE_wifidog is not set
 # CONFIG_PACKAGE_wifidog-tls is not set
@@ -2869,9 +2865,9 @@ CONFIG_PACKAGE_ohybridproxy=y
 #
 # Instant Messaging
 #
-CONFIG_PACKAGE_irssi=y
+# CONFIG_PACKAGE_irssi is not set
 # CONFIG_PACKAGE_irssi-nossl is not set
-CONFIG_PACKAGE_prosody=y
+# CONFIG_PACKAGE_prosody is not set
 # CONFIG_PACKAGE_umurmur-openssl is not set
 # CONFIG_PACKAGE_umurmur-polarssl is not set
 CONFIG_PACKAGE_znc=y
